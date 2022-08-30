@@ -1,1 +1,2 @@
-# Permisos-en-android-studio
+# capture_images
+Capture images from Android Application with kotlin
